@@ -8,4 +8,19 @@ export const Nyhedsbrevstyle = styled.div`
 	width: 100%;
 
 	background-position: center;
+
+	text-align: center;
+
+	h4 {
+		color: white;
+	}
+
+	input {
+		width: 1000px;
+	}
+
+	form {
+		display: flex;
+		justify-content: center;
+	}
 `;
