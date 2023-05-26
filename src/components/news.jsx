@@ -13,7 +13,7 @@ export const News = () => {
 
 	return (
 		<NewsStyle>
-			<h2>Nyheder</h2>
+			<h2>Vi skaber lækkert og godt brød</h2>
 			<PictureNews>
 				{news.map((data) => {
 					return (

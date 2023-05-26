@@ -42,6 +42,7 @@ export const Nyhedsbrev = () => {
 					id="email"
 					placeholder="indtast din email"
 				/>
+				<button type="button">Tilmeld</button>
 			</form>
 		</Nyhedsbrevstyle>
 	);

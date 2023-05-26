@@ -23,4 +23,9 @@ export const Nyhedsbrevstyle = styled.div`
 		display: flex;
 		justify-content: center;
 	}
+
+	button {
+		color: white;
+		background-color: ${(props) => props.theme.colors.primary};
+	}
 `;
